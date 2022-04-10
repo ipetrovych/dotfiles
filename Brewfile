@@ -39,4 +39,3 @@ cask 'microsoft-word'
 # Fonts
 cask 'font-lato'
 cask 'font-open-sans'
-cask 'font-roboto'
